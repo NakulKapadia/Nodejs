@@ -1,0 +1,15 @@
+{
+	"name": "StatisticalAnalysis",
+	"version": "0.1.0",
+	"description": "Statistical Analysis module, has FDIST and FINV functions",
+	"keywords": ["Statistical",
+				"Analysis",
+				"FDIST",
+				"FINV"
+				],
+	"author": {
+	"name": "Nakul Kapadia",
+	"email": "nakulmkapadia@gmail.com"
+	},
+	"main": "StatisticalAnalysis"
+}
